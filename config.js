@@ -11,10 +11,10 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Sharif',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -40,39 +40,39 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Basecamp',
+      icon: 'message-circle',
+      link: 'https://3.basecamp.com/5030054/',
     },
     {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Play Store Developer Console',
+      icon: 'play',
+      link: 'https://play.google.com/apps/publish',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'App Store Connect',
+      icon: 'package',
+      link: 'https://appstoreconnect.apple.com',
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'Firebase Console',
+      icon: 'database',
+      link: 'https://console.firebase.google.com',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -106,16 +106,12 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Basecamp',
+        link: 'https://3.basecamp.com/5030054/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
-      },
-      {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Whatsapp',
+        link: 'https://web.whatsapp.com',
       },
       {
         name: 'Telegram',
